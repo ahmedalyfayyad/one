@@ -34,3 +34,6 @@ net_output = np.dot(w_out, hidden_outputs)
 out_final = tanh(net_output)
 
 print(out_final)
+
+
+# Final output (sample run): -0.37096112247625995
